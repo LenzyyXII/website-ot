@@ -1,0 +1,8 @@
+@theme {
+  --color-background: #09090b;   /* Hitam pekat / zinc-950 */
+  --color-card: #121214;         /* Abu-abu gelap untuk Card & Sidebar */
+  --color-primary: #6366f1;      /* Indigo Neon */
+  --color-accent: #a855f7;       /* Ungu Neon */
+  --color-muted: #1e1e22;        /* Batas / Border subtle */
+  --color-text-main: #f4f4f5;
+}
